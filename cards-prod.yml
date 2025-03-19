@@ -5,7 +5,7 @@ cards:
   message: "Hey, welcome to abhishekBank cards related prod APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    email: "{cipher}0cecdf43ed44e838f301660567cd46bb0a7f3c71ce96fd9b4df932377516e46829990f3af7614f2b214b9426b49f32fb"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
